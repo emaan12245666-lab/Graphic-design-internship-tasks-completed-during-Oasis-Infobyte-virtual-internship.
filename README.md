@@ -12,7 +12,7 @@ The logo beautifully merges two main elements to reflect the cafe's cozy theme:
 * **Typography:** Clean, elegant text arranged in a circular path for a balanced, modern look.
 
 ## 📁 Project Files
-* **Main Logo Image:** `aura-cafe-logo.png` (or your uploaded image name)
+* **Main Logo Image:** `aura-cafe-logo.png`
 * **Preview:**
   <br>
   <img src="aura-cafe-logo.png" width="350" alt="Aura Cafe Logo">
